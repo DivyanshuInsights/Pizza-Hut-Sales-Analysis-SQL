@@ -13,7 +13,8 @@ Strengthen SQL skills through practical implementation.
 Showcase expertise in data analytics for professional growth.
 
 🛠️ Tools and Technologies
-Tool:-	Purpose
-SQL (PostgreSQL):-	Data querying and analysis
-Microsoft Excel:-	Data storage and preprocessing
+
+SQL (PostgreSQL):-	Data querying and analysis and
+Microsoft Excel:-	Data storage and preprocessing and
+PowerBI:- to show relationship between tables
 
