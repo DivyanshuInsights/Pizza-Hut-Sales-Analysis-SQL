@@ -18,12 +18,4 @@ Calculate the percentage contribution of each pizza type to total revenue.
 Analyze the cumulative revenue generated over time.
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-x-axis mai text data ya category type data dalna h 
-y-axis m always numeric data dalna h in pivot chart or while making dashboard
 
-note - power bi mai secondary axis and legend ek sath nahi access honge ya to value secondary axis m daal skte ho ya to legend m
-
-and left side m primary axis ki value hoti hai and right side m secondary axis ki value hoti h
-line chart m shade area bohot imp h
-
-power bi mai tooltips hme ek sath multiple value show krta h jb tum mouse pointer ko chart pe le jaoge to
