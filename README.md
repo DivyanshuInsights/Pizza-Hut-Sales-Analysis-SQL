@@ -11,16 +11,9 @@ Analyze sales data to uncover trends and patterns.
 Derive actionable insights for business decision-making.
 Strengthen SQL skills through practical implementation.
 Showcase expertise in data analytics for professional growth.
+
 🛠️ Tools and Technologies
 Tool:-	Purpose
 SQL (PostgreSQL):-	Data querying and analysis
 Microsoft Excel:-	Data storage and preprocessing
-🗂️ Dataset Description
 
-The project uses multiple Excel sheets representing different aspects of Pizza Hut’s operations.
-
-Table Name,	Description
-orders_time,	Contains order IDs, dates, and times
-order_details,	Includes quantity and pizza IDs for each order
-pizzas,	Stores pizza sizes and prices
-pizza_types,	Provides pizza names, categories, and ingredients
